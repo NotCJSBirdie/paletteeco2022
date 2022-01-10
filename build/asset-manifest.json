@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0bee8e03.css",
+    "main.js": "/static/js/main.961643f8.js",
+    "static/media/MaisonNeue-Medium.otf": "/static/media/MaisonNeue-Medium.aba0b84e5442d58d8b80.otf",
+    "static/media/RecifeDisplay-Regular.ttf": "/static/media/RecifeDisplay-Regular.917f5360e5a9c5a77063.ttf",
+    "static/media/shopify.svg": "/static/media/shopify.9852bc484fdf5a189d6e4c0c0a045058.svg",
+    "index.html": "/index.html",
+    "main.0bee8e03.css.map": "/static/css/main.0bee8e03.css.map",
+    "main.961643f8.js.map": "/static/js/main.961643f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bee8e03.css",
+    "static/js/main.961643f8.js"
+  ]
+}
